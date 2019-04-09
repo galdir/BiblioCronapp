@@ -1,10 +1,10 @@
-# Introdução
+# Repositório do Curso de Desenvolvimento Visual Cronapp Unifacs.
 
 Esta é uma aplicação criada com o CronApp IDE.
 
 ## Pré-Requisitos
 
-1. CronApp IDE
+1. CronApp IDE (Ambiente Next)
 
 ## Como rodar com o CronApp
 
